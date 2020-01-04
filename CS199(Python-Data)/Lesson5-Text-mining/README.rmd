@@ -1,4 +1,0 @@
-Two PARTS:
-
-- Zipf's law
-- Markov-Chain Text Generation

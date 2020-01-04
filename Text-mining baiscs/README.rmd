@@ -1,0 +1,7 @@
+
+Two Parts are included in the ipynb file:
+
+  - Zipf's law
+  - Markov-Chain Text Generation
+
+The pdf file is about spam detection using Naive bayes. 
